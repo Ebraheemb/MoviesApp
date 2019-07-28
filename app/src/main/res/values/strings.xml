@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies app</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="poster_image_transition_name">poster_image</string>
+    <string name="release_date">Release date</string>
+    <string name="vote_average">Vote average</string>
+    <string name="movie_language">Movie language</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="title_transition_name">title_transition</string>
+</resources>

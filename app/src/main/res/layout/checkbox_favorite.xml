@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatCheckBox
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="?attr/actionBarSize"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_gravity="end"
+        android:gravity="center"
+        android:scaleX="0.5"
+        android:scaleY="0.5"
+        android:background="@drawable/favirite_checkbox_bg"
+        android:button="@null"/>
